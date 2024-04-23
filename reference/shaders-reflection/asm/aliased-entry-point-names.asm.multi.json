@@ -18,8 +18,8 @@
         }
     ],
     "types" : {
-        "_8" : {
-            "name" : "_8",
+        "_13" : {
+            "name" : "_13",
             "members" : [
                 {
                     "name" : "_m0",
@@ -34,6 +34,9 @@
                     "type" : "float",
                     "array" : [
                         1
+                    ],
+                    "array_size_is_literal" : [
+                        true
                     ]
                 },
                 {
@@ -41,6 +44,9 @@
                     "type" : "float",
                     "array" : [
                         1
+                    ],
+                    "array_size_is_literal" : [
+                        true
                     ]
                 }
             ]
